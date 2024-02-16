@@ -10,3 +10,11 @@ At the end of the project, it is hoped that an implementation of the popular tic
 - store a game's history, as the game progresses
 - allow players to review a game's history and see previous versions of the game's board
 - give me a decent grasp of how React works.
+
+Throughout the project, the building blocks of React waas learnt. This included:
+- passing data through props
+- making interactive components
+- React Developer Tools 
+- state, useState hook
+- Immutability
+- list keys
